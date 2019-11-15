@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   Bad Ciara!
+                   Bad Bruno!
                 </div>
 
                 <div class="links">
