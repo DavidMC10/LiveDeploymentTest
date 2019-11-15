@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Need help for the cyber exam! David Best send answers please :)
+                   Bad Ciara!
                 </div>
 
                 <div class="links">
